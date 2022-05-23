@@ -14,7 +14,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/abdify/abdify)](https://abdify.me)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/username)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/abdify/)
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
+[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/abdify)
 <br />
 <br />
 
@@ -33,7 +33,13 @@ function Abdify(){
 <br />
 
 ## Other APIs:
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdify&theme=gruvbox&hide_border=true" alt="">
+<a href="https://abdify.me">
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdify&theme=gruvbox&hide_border=true" alt="">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdify&show_icons=true&theme=gruvbox&hide_border=true" />
+</a>
+
+[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=abdify&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abdify.me)
+
 <img src="https://github-profile-trophy.vercel.app/?username=abdify" alt="">
 <img src="https://github-readme-stats.vercel.app/api?username=abdify&show_icons=true&locale=en" alt="">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdify&show_icons=true&locale=en&layout=compact" alt="">
@@ -42,4 +48,4 @@ function Abdify(){
 
 
 
-[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=abdify&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abdify.me)
+
